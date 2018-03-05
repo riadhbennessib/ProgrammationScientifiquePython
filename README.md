@@ -1,2 +1,2 @@
-# PythonScientifique
-Python scientifique: Packages
+# Python Scientifique
+Python scientifique: numpy, scipy, sympy, matplotlib et pandas.

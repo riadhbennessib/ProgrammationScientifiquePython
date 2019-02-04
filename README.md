@@ -1,2 +1,2 @@
-# Python Scientifique
-Python scientifique: numpy, scipy, sympy, matplotlib et pandas.
+# Programmation  Scientifique avec Python
+Les packages: numpy, scipy, sympy, matplotlib et pandas.

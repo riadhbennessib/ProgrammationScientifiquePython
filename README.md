@@ -10,6 +10,6 @@ Les chapitres :
 
 # Goto Course 
 
-![pyscript in Liascript course](https://liascript.github.io/course/?https://raw.githubusercontent.com/riadhbennessib/ProgrammationScientifiquePython/master/Lia01.md#1)
+https://liascript.github.io/course/?https://raw.githubusercontent.com/riadhbennessib/ProgrammationScientifiquePython/master/Lia01.md#1
 
 

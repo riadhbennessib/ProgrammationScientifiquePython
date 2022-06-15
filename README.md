@@ -5,3 +5,4 @@ Les chapitres :
 2. Analyse des données
 3. Matrices
 4. ODE et PDE
+5. Interpollation.

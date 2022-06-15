@@ -58,10 +58,6 @@ persistent:  true
 @end
 -->
 
-# Goto Course 
-
-![pyscript in Liascript](https://liascript.github.io/course/?https://raw.githubusercontent.com/riadhbennessib/ProgrammationScientifiquePython/master/Lia01.md#1)
-
 
 # Hello Liascript 15 juin 2022.
 

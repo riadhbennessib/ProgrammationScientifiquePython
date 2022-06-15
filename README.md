@@ -6,3 +6,10 @@ Les chapitres :
 3. Matrices
 4. ODE et PDE
 5. Interpollation.
+
+
+# Goto Course 
+
+![pyscript in Liascript course](https://liascript.github.io/course/?https://raw.githubusercontent.com/riadhbennessib/ProgrammationScientifiquePython/master/Lia01.md#1)
+
+
